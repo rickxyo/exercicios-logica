@@ -16,7 +16,7 @@ public class MediaAluno {
         System.out.println("Digite a terceira nota: ");
         double nota3 = input.nextDouble();
 
-        double media = nota1 + nota2 + nota3 / 3;
+        double media = (nota1 + nota2 + nota3) / 3;
 
         System.out.println(media);
     }
