@@ -1,7 +1,7 @@
 package Exercicio13;
 import java.util.Scanner;
 
-// 13 - Faça algoritmo que leia o nome e a idade de uma peso e imprima na tela o nome da pessoa e se ela é maior ou menor de idade. 
+// 13 - Faça algoritmo que leia o nome e a idade de uma peso e imprima na tela o nome da pessoa e se ela é maior ou menor de idade.
 
 public class MaiorOuMenorDeIdade {
     public static void main(String[] args) {
